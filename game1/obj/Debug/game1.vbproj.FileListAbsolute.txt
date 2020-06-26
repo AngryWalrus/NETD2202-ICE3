@@ -1,0 +1,12 @@
+C:\Users\C4dd13\source\repos\game1\game1\bin\Debug\game1.exe.config
+C:\Users\C4dd13\source\repos\game1\game1\bin\Debug\game1.exe
+C:\Users\C4dd13\source\repos\game1\game1\bin\Debug\game1.pdb
+C:\Users\C4dd13\source\repos\game1\game1\bin\Debug\game1.xml
+C:\Users\C4dd13\source\repos\game1\game1\obj\Debug\game1.vbprojAssemblyReference.cache
+C:\Users\C4dd13\source\repos\game1\game1\obj\Debug\game1.Resources.resources
+C:\Users\C4dd13\source\repos\game1\game1\obj\Debug\game1.vbproj.GenerateResource.cache
+C:\Users\C4dd13\source\repos\game1\game1\obj\Debug\game1.vbproj.CoreCompileInputs.cache
+C:\Users\C4dd13\source\repos\game1\game1\obj\Debug\game1.exe
+C:\Users\C4dd13\source\repos\game1\game1\obj\Debug\game1.xml
+C:\Users\C4dd13\source\repos\game1\game1\obj\Debug\game1.pdb
+C:\Users\C4dd13\source\repos\game1\game1\obj\Debug\game1.BURG.resources
